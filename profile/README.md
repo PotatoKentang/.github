@@ -1,6 +1,6 @@
 # PotatoKentang
 
-![PotatoKentang Logo](https://avatars.githubusercontent.com/u/127182151?s=400&u=4091310dc4d2c06cb3af8b67d16bd05e8a2e87ab&v=4)
+<img src="https://avatars.githubusercontent.com/u/127182151?s=400&u=4091310dc4d2c06cb3af8b67d16bd05e8a2e87ab&v=4" alt="PotatoKentang Logo" width="100">
 
 Welcome to PotatoKentang, the ultimate college organization where deadlines and projects bring students to tears while fostering creativity, collaboration, and innovation.
 
