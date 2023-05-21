@@ -20,11 +20,11 @@ Explore some of our notable projects that demonstrate the diverse skills and exp
 
 Meet the talented individuals who make up our organization:
 
-- **Patrick Kwon** - Clown#1
-- **Retno Shintya** - Clown#2
-- **Reynard Christiansen** - Clown#3
-- **Jefferson Juan** - Clown#4
-- **Marvelio Keven Wen** - Clown#5
+- **Patrick Kwon** - Student
+- **Retno Shintya** - Student
+- **Reynard Christiansen** - Group Clown
+- **Jefferson Juan** - Student
+- **Marvelio Keven Wen** - Student
 
 ## How to Get Involved
 
