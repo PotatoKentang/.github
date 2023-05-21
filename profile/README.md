@@ -22,7 +22,7 @@ Meet the talented individuals who make up our organization:
 
 - **Patrick Kwon** - Student
 - **Retno Shintya** - Student
-- **Reynard Christiansen** - Group Clown
+- **Reynard Christiansen** - Student
 - **Jefferson Juan** - Student
 - **Marvelio Keven Wen** - Student
 
