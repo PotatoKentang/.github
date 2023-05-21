@@ -20,11 +20,11 @@ Explore some of our notable projects that demonstrate the diverse skills and exp
 
 Meet the talented individuals who make up our organization:
 
-- **Patrick Kwon** - President
-- **Retno Shintya** - Vice President
-- **Reynard Christiansen** - Executive
-- **Jefferson Juan** - Executive
-- **Marvelio Keven Wen** - Executive
+- **Patrick Kwon** - Clown#1
+- **Retno Shintya** - Clown#2
+- **Reynard Christiansen** - Clown#3
+- **Jefferson Juan** - Clown#4
+- **Marvelio Keven Wen** - Clown#5
 
 ## How to Get Involved
 
